@@ -27,6 +27,13 @@ body{
     justify-content: center;
     z-index: 0;
 }
+
+.in{
+    color: #caacdf;
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+}
+
 .envolope{
     position: absolute;
     width: 100%;
